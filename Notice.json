@@ -1,14 +1,4 @@
 {
-    "Notice":{
-    "Newnotice":
-    [
-        {"Olir kotha sune bakul hase"},
-         {"Notice ti Onek guruttopurno"},
-         {"Json niye kaj kora lagei"},
-         {"Ki je kortechi nijeo bujhi na"},
-         {"Tao experiance hocche"},
-         {"English o Pari na Banan vul hoy"}
-    ]
-    
-    }
+
+"notice":["Ford", "BMW", "Fiat"]
 }
